@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="judul">judul</string>
+    <string name="description">description</string>
+    <string name="login">login</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="video_name">Nama kartun</string>
+    <string name="kartun_name">Nama Kartun</string>
+    <string name="kartu_name">Nama Kartun</string>
+    <string name="cartoon">CartoonKu</string>
+
+    <string-array name="judul_video">
+        <item>Barbie in a Mermaid Tale</item>
+        <item>Doraemon</item>
+        <item>Chibi Maruko-chan</item>
+        <item>Naruto Shippuden</item>
+        <item>Nussa</item>
+        <item>Paw Patrol</item>
+        <item>ChalkZone</item>
+        <item>Sofia the First</item>
+        <item>Omar dan Hana</item>
+        <item>Upin dan Ipin</item>
+        <item>Dora the Explorer</item>
+        <item>Masha and the Bear</item>
+        <item>Bernard</item>
+        <item>BoBoiBoy</item>
+        <item>Tayo The Little Bus</item>
+        <item>Cocomelon</item>
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>
+            "Barbie in a Mermaid Tale" adalah film animasi yang mengikuti petualangan Barbie sebagai seorang putri duyung.
+            Dalam cerita ini, Barbie menemukan dirinya terlibat dalam sebuah dunia bawah laut yang penuh dengan keajaiban dan rahasia. Saat berubah menjadi putri duyung, Barbie harus mengatasi berbagai tantangan dan menjelajahi kerajaan bawah laut yang menakjubkan. Film ini tidak hanya menawarkan visual yang menarik, tetapi juga mengajarkan nilai-nilai tentang persahabatan, penemuan diri, dan kepercayaan pada diri sendiri, semuanya disajikan dengan pesona khas Barbie yang memikat.
+            "Barbie in a Mermaid Tale" menggabungkan elemen fantasi, keindahan, dan pesan positif untuk memukau penonton dari berbagai kelompok usia.
+        </item>
+        <item>
+            Doraemon (ドラえもん, Doraemon) adalah judul sebuah manga dan anime yang sangat populer yang dikarang Fujiko F. Fujio (藤子・F・不二雄) sejak Desember 1969 dan berkisah tentang kehidupan seorang anak pemalas kelas 5 sekolah dasar yang bernama Nobita Nobi (野比のび太) yang didatangi oleh sebuah robot kucing bernama Doraemon yang datang dari abad ke-22.
+            Doraemon dikirim untuk menolong Nobita agar keturunannya dapat menikmati kesuksesannya daripada harus menderita dari utang finansial yang akan terjadi pada masa depan yang disebabkan karena kebodohan Nobita.
+        </item>
+        <item>Chibi Maruko-chan (ちびまる子ちゃん) adalah serial anime yang diangkat dari manga populer yang dikarang Momoko Sakura, dan juga nama panggilan untuk tokoh utama berupa anak perempuan berusia 9 tahun kelas 3 sekolah dasar.
+            Kisahnya bertemakan komedi kehidupan sehari-hari anak SD berdasarkan pengalaman masa kecil pengarangnya. Chibi Maruko-chan juga dijadikan serial drama dengan pemeran cilik Ei Morisako (generasi pertama) dan Ayaka Itoh (generasi kedua).
+            Di Indonesia, serial anime ini pernah ditayangkan di RCTI, RTV dan Spacetoon.
+        </item>
+        <item>
+            Naruto Shippuden adalah sebuah seri anime yang diadaptasi dari bagian II manga Naruto. Serial ini disutradarai oleh Hayato Date dan diproduksi oleh Studio Pierrot dan TV Tokyo. Pada bagian ini, pergerakan organisasi Akatsuki semakin terlihat.
+            Naruto Shippuden juga telah dibuat versi filmnya dengan judul Naruto Shippuden The Movie yang dirilis di Jepang pada Agustus 2007. Film ini menceritakan tentang usaha ninja jahat dalam membangkitkan Mouryou, roh jahat yang telah dikalahkan 20 tahun yang lalu.
+            Setelah Naruto Shippuden The Movie dirilis, hadir pula Naruto Shippuden The Movie 2: Bond. Film ini menceritakan serangan kelompok ninja dari Negara Langit kepada Desa Konoha. Kemudian Naruto Shippuden The Movie 3: Inheritors of The Will of Fire.
+            Di sini diceritakan Desa Konoha dituduh sebagai dalang penyebab para ninja dengan Kekkei Genkai menghilang dari Desa Suna, Desa Kiri, Desa Kumo dan Desa Iwa. Di Indonesia, Naruto Shippuden sempat ditayangkan di Indosiar dan GTV.[1]
+        </item>
+        <item>
+            Nussa Serial ini dibuat oleh Kisara Pictures dan Pertamina Hulu Energi, dan tujuannya adalah untuk menyampaikan pesan-pesan positif kepada anak-anak Indonesia.
+            Nussa, bersama dengan sahabatnya Rara, menjelajahi berbagai petualangan untuk memahami nilai-nilai kehidupan dan keberagaman budaya Indonesia.
+            Melalui ceritanya, Nussa sering kali memberikan pemahaman tentang kebaikan, persahabatan, keberagaman, dan nilai-nilai luhur lainnya.
+            Serial ini menjadi salah satu upaya untuk memberikan hiburan edukatif kepada anak-anak dan mendukung pembelajaran positif dalam format yang menyenangkan.
+        </item>
+        <item>
+            Paw Patrol mengisahkan tentang sekelompok anjing-anjing pahlawan yang disebut "Paw Patrol," yang dipimpin oleh seorang anak bernama Ryder. Setiap anjing memiliki kemampuan khusus dan kendaraan yang dapat mereka gunakan untuk membantu masyarakat dan menyelesaikan berbagai misi penyelamatan di Adventure Bay.
+            Serial ini dirancang khusus untuk anak-anak prasekolah dan menggabungkan unsur-unsur pendidikan dengan cerita petualangan yang menyenangkan.
+            Paw Patrol telah menjadi sangat populer di kalangan anak-anak dan telah mendapatkan kesuksesan internasional.
+        </item>
+        <item>
+            Tokoh utama dalam kartun ini adalah seorang murid SD bernama Rudy Tabootie. Ia memiliki sebuah kapur ajaib yang memungkinkannya masuk ke ChalkZone atau "Zona Kapur", sebuah dimensi lain di mana apapun yang pernah digambar dengan kapur ajaib ini menjadi hidup.
+            Serial ini berkisah pada petualangan Rudy bersama Snap kawannya dan teman sekelasnya Penny Sanchez.
+        </item>
+        <item>
+            Cerita berfokus pada perjalanan Sofia saat dia belajar bagaimana menjadi seorang putri, mengatasi tantangan, dan menjalin persahabatan dengan berbagai karakter di istana, termasuk para putri Disney lainnya yang muncul sebagai tamu.
+            Sofia juga memiliki hadiah istimewa, yaitu Amulet of Avalor, yang memberinya kekuatan untuk berbicara dengan hewan dan mendapatkan bantuan dari berbagai karakter dongeng.
+        </item>
+        <item>
+            "Omar dan Hana" adalah sebuah serial animasi Malaysia yang dibuat untuk anak-anak. Serial ini memadukan unsur-unsur pendidikan Islam dengan hiburan, dirancang khusus untuk mengedukasi anak-anak dalam konteks nilai-nilai Islam.
+            Ceritanya berfokus pada petualangan dua karakter utama, Omar dan Hana, bersama teman-teman mereka.
+        </item>
+        <item>
+            "Upin dan Ipin" adalah serial animasi yang mengisahkan petualangan dua saudara kembar lucu, Upin dan Ipin, serta teman-teman mereka di Kampung Durian Runtuh.
+            engan gaya animasi yang menggemaskan dan cerita yang penuh warna, setiap episode membawa pemirsa ke dunia kisah yang menghibur dan sarat nilai-nilai positif.
+            Melalui karakter-karakter yang mencolok, serial ini tidak hanya menyajikan momen-momen komedi yang menggelitik tawa, tetapi juga merangkai pesan-pesan penting tentang persahabatan, kejujuran, dan nilai-nilai moral.
+        </item>
+        <item>
+            "Dora the Explorer" adalah serial animasi interaktif yang mengikuti petualangan seorang gadis kecil pemberani bernama Dora, yang bersama dengan temannya, Boots (seekor monyet), dan sejumlah karakter berwarna lainnya, menjelajahi berbagai petualangan untuk mencapai tujuan mereka.
+            Dengan bantuan penonton, Dora mengajak pemirsa untuk berpartisipasi dalam perjalanan dengan memecahkan teka-teki dan mengatasi rintangan.
+            Serial ini dirancang khusus untuk anak-anak prasekolah dan menonjolkan pendekatan pendidikan melalui interaksi langsung dengan penonton, mengajarkan dasar-dasar bahasa, matematika, dan keterampilan sosial sambil menyuguhkan cerita petualangan yang penuh warna dan menyenangkan.
+        </item>
+        <item>
+            "Masha and the Bear" adalah serial animasi Rusia yang mengisahkan kisah persahabatan antara seorang gadis kecil bernama Masha dan seekor beruang besar yang tinggal di hutan.
+            Dengan sentuhan keceriaan dan kejenakaan, setiap episode mengeksplorasi petualangan unik mereka, sering kali melibatkan tingkah laku nakal Masha yang menciptakan situasi komedi.
+            Meskipun beruang awalnya berusaha menjaga ketenangan hidupnya, dia akhirnya terlibat dalam berbagai kegiatan dan pembelajaran bersama Masha.
+        </item>
+        <item>
+            "Bernard," juga dikenal sebagai "Backkom," adalah serial animasi Korea Selatan yang mengisahkan kisah seekor beruang kutub canggung bernama Bernard. Meskipun memiliki niat baik, Bernard seringkali tanpa sengaja terjerumus ke dalam situasi-situasi kocak dan penuh kekacauan. Dengan desain karakter yang lucu dan keceriaan alamiah Bernard, setiap episode membawa penonton dalam petualangan berengsek yang sarat dengan humor slapstick dan kejutan komedi.
+        </item>
+        <item>
+            BoBoiBoy adalah sebuah seri animasi Malaysia yang diproduksi oleh Animonsta Studios. Seri animasi ini menceritakan tentang seorang anak yang memiliki kekuatan luar biasa untuk melawan makhluk asing yang ingin menyerang Bumi. Bersama keempat temannya; Yaya, Ying, Gopal dan Fang, BoBoiBoy berusaha menghalangi Adu Du, alien berkepala kotak dan berwarna hijau, bersama dengan Probe dan Computer yang ingin menaklukan bumi untuk mendapatkan biji coklat.
+        </item>
+        <item>
+            "Tayo the Little Bus" adalah serial animasi Korea Selatan yang mengisahkan tentang kehidupan dan petualangan sebuah kelompok bus kecil yang hidup di kota pemukiman. Tayo, bus utama yang berjiwa ceria, bersama teman-temannya, seperti Rogi, Lani, dan Gani, menjalani hari-hari penuh kegembiraan dan pembelajaran. Setiap episode tidak hanya memberikan hiburan dengan tingkah laku lucu para karakternya, tetapi juga menyampaikan pesan moral dan edukatif kepada penonton prasekolah.
+        </item>
+        <item>
+            "Cocomelon" adalah saluran YouTube dan merk hiburan anak-anak yang terkenal karena kontennya yang menghibur dan edukatif. Dikenal dengan karakter-karakter seperti JJ, TomTom, dan YoYo, "Cocomelon" menyajikan animasi musik dan lagu-lagu yang disertai dengan gambar ceria untuk anak-anak prasekolah. Setiap episode tidak hanya menghibur dengan lagu-lagu populer anak-anak, tetapi juga mengeksplorasi situasi dan cerita yang dapat memberikan pengajaran dan pemahaman kepada anak-anak tentang dunia sekitar mereka.
+        </item>
+    </string-array>
+    <array name="video_id">
+        <item>@raw/barbie</item>
+        <item>@raw/doraemon</item>
+        <item>@raw/maruko</item>
+        <item>@raw/naruto</item>
+        <item>@raw/nussarara</item>
+        <item>@raw/pawpatrol</item>
+        <item>@raw/rudy</item>
+        <item>@raw/sofia</item>
+        <item>@raw/umarhana</item>
+        <item>@raw/upinipin</item>
+        <item>@raw/dora</item>
+        <item>@raw/marsha</item>
+        <item>@raw/bernard</item>
+        <item>@raw/boboiboyvid</item>
+        <item>@raw/tayovid</item>
+        <item>@raw/cocomln</item>
+
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/barbiemermaid</item>
+        <item>@drawable/emon</item>
+        <item>@drawable/maruko</item>
+        <item>@drawable/naruto</item>
+        <item>@drawable/nussa</item>
+        <item>@drawable/paw</item>
+        <item>@drawable/ruditaboti</item>
+        <item>@drawable/sofiathefirst</item>
+        <item>@drawable/omarhana</item>
+        <item>@drawable/upin</item>
+        <item>@drawable/dora</item>
+        <item>@drawable/masha</item>
+        <item>@drawable/bernard</item>
+        <item>@drawable/boboiboy</item>
+        <item>@drawable/tayo</item>
+        <item>@drawable/cocomelonn</item>
+
+    </integer-array>
+</resources>
